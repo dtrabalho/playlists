@@ -43,6 +43,7 @@ header h1 {
     overflow: hidden;
     max-width: 1000px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 /* Estilos dos botões com ícones */
