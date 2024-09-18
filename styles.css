@@ -22,7 +22,7 @@ header {
 
 header h1 {
     font-size: 2.5em;
-    color: #1DB954;
+    color: #A62424;
 }
 
 .portfolio-section {
@@ -47,7 +47,7 @@ header h1 {
 
 /* Estilos dos botões com ícones */
 .carousel-container button {
-    background-color: #1DB954; /* Cor verde semelhante ao estilo do Spotify */
+    background-color: #A62424; /* Cor verde semelhante ao estilo do Spotify */
     border: none;
     border-radius: 50%;
     width: 50px;
@@ -76,7 +76,7 @@ header h1 {
 }
 
 h1 {
-    color: #1DB954; /* Verde semelhante ao Spotify */
+    color: #A62424; /* Verde semelhante ao Spotify */
 }
 
 
@@ -91,7 +91,7 @@ h1 {
 }
 
 .portfolio-item {
-    background-color: #181818;
+    background-color: #A62424;
     padding: 20px;
     border-radius: 10px;
     width: 250px;
@@ -160,7 +160,7 @@ h1 {
 .redirect-btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #1DB954; /* Cor verde do Spotify */
+    background-color: #A62424; /* Cor verde do Spotify */
     color: white;
     text-decoration: none;
     border-radius: 5px;
