@@ -51,8 +51,8 @@ header h1 {
     background-color: #A62424; /* Cor verde semelhante ao estilo do Spotify */
     border: none;
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     color: white;
     font-size: 24px;
     display: flex;
